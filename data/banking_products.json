@@ -1,0 +1,30 @@
+[
+  {
+    "product":"Personal Loan",
+    "interest_rate":"10.5% - 16%",
+    "maximum_amount_inr":2000000,
+    "tenure":"1-7 years",
+    "processing_fee":"2%"
+  },
+  {
+    "product":"Home Loan",
+    "interest_rate":"8.5% - 11%",
+    "maximum_amount_inr":50000000,
+    "tenure":"5-30 years",
+    "processing_fee":"0.5%"
+  },
+  {
+    "product":"Education Loan",
+    "interest_rate":"9% - 12%",
+    "maximum_amount_inr":1000000,
+    "tenure":"1-10 years",
+    "processing_fee":"1%"
+  },
+  {
+    "product":"Fixed Deposit",
+    "interest_rate":"6.5% - 7.5%",
+    "maximum_amount_inr":10000000,
+    "tenure":"1-5 years",
+    "processing_fee":"0%"
+  }
+]

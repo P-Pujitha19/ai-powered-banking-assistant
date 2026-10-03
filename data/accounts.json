@@ -1,0 +1,5 @@
+[
+  {"customer_id":"CUST001","account_type":"Savings","account_number":"900000004521","balance":72450.00},
+  {"customer_id":"CUST002","account_type":"Savings","account_number":"900000007832","balance":38500.00},
+  {"customer_id":"CUST003","account_type":"Savings","account_number":"900000009114","balance":128750.00}
+]

@@ -1,0 +1,5 @@
+[
+  {"customer_id":"CUST001","name":"Customer 001","monthly_income":65000,"consent":true},
+  {"customer_id":"CUST002","name":"Customer 002","monthly_income":45000,"consent":true},
+  {"customer_id":"CUST003","name":"Customer 003","monthly_income":90000,"consent":true}
+]
